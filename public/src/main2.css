@@ -1,0 +1,7 @@
+tbody th a{color:#00f;text-decoration:underline;}
+tbody tr:nth-child(even) th,
+tbody tr:nth-child(even) td{background:#f8f8f8;}
+
+.t_strong{color:#f00;}
+.t_point{color:#00f;}
+.bg_strong{padding:3px;background:#eee;}
